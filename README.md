@@ -4,9 +4,9 @@ Web corporativa de **Garbiplaga** — sanidad ambiental y control de plagas para
 
 ## Publicación
 
-El sitio se publica con GitHub Pages desde la rama `main` (raíz):
+Sitio de la organización, publicado con GitHub Pages desde la rama `main` (raíz):
 
-https://polkasansebastian.github.io/garbiplaga/
+**https://garbiplaga.github.io/**
 
 ## Estructura
 
@@ -24,7 +24,7 @@ Cada versión aprobada se exporta a HTML estático y se sube a este repositorio.
 ## Pendiente
 
 - Número de inscripción ROESB
+- Razón social y CIF en el aviso legal
 - Testimonios reales de clientes
-- Dominio propio y formulario de contacto conectado
-# garbiplaga
-Web de Garbiplaga: sanidad ambiental y control de plagas para hosteleria en Donostia y Gipuzkoa
+- Foto de la furgoneta: el rótulo dice "conteo de plagas" en lugar de "control"
+- Dominio propio (garbiplaga.eus) y formulario de contacto conectado
