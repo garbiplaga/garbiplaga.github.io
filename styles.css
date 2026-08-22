@@ -43,6 +43,14 @@
   }
 }
 
+/* pantallas estrechas: los cuatro enlaces caben en una sola fila */
+@media (max-width: 400px) {
+  header > div { padding: 8px 12px !important; gap: 4px !important; }
+  header > div > a img { height: 34px !important; }
+  header nav a.btn { font-size: 12.5px !important; padding: 8px 13px !important; }
+  header nav a:not(.btn) { font-size: 11.5px !important; padding: 4px 5px !important; }
+}
+
 :root {
   --color-bg: #f5ead8;
   --color-surface: #ebddc5;
